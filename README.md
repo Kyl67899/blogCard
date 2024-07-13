@@ -1,6 +1,7 @@
 # Frontend Mentor - Blog preview card
 
-![Design preview for the Blog preview card coding challenge](./design/desktop-preview.jpg)
+Demo:
+![image](https://github.com/user-attachments/assets/200aa3fa-8836-43af-8499-96f4ef730a36)
 
 ## Welcome! 👋
 
@@ -51,8 +52,6 @@ Feel free to use any workflow that you feel comfortable with. Below is a suggest
 
 As mentioned above, there are many ways to host your project for free. Our recommend hosts are:
 
-- [GitHub Pages](https://pages.github.com/)
-- [Vercel](https://vercel.com/)
 - [Blog Card](https://blog-card-profile.vercel.app/)
 
 You can host your site using one of these solutions or any of our other trusted providers. [Read more about our recommended and trusted hosts](https://medium.com/frontend-mentor/frontend-mentor-trusted-hosting-providers-bf000dfebe).
